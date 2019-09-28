@@ -7,3 +7,5 @@ or going at this url https://bharat-kathuria.shinyapps.io/trendcompare/
 ![GitHub Logo](/images/s1.jpeg)
 Format: ![Alt Text](url)
 
+![GitHub Logo](/images/s2.JPG)
+Format: ![Alt Text](url)
