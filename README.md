@@ -5,7 +5,7 @@ Try this tools by clicking this link:  [Trend Compare](https://bharat-kathuria.s
 or going at this url https://bharat-kathuria.shinyapps.io/trendcompare/
 
 ![GitHub Logo](/images/s1.jpeg)
-Format: ![Alt Text](url)
+![windows vs linux](https://github.com/bharatkathuria/Trend-Compare/blob/master/images/s1.jpeg)
 
 ![GitHub Logo](/images/s2.JPG)
-Format: ![Alt Text](url)
+![virat kohli vs steven smith](https://github.com/bharatkathuria/Trend-Compare/blob/master/images/s2.JPG)
